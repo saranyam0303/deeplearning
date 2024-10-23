@@ -28,6 +28,6 @@ Key components to be fulfilled :
   * Evaluate the model on the testing data.
   * Report the performance metrics (e.g., Mean Squared Error, R² Score).
 
-6.Improving the Model (5 marks)
+6.Improving the Model
   * Experiment with different architectures, activation functions, or hyperparameters to improve the model performance.
   * Report the changes made and the corresponding improvement in performance.
